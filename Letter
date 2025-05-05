@@ -1,0 +1,58 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A Letter to Aneeqa</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #1a1a1a;
+      color: #ffffff;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+    .container {
+      max-width: 600px;
+      padding: 20px;
+      background: #2c2c2c;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(255, 255, 255, 0.1);
+    }
+    h1 {
+      color: #ff4b4b;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .signature {
+      margin-top: 20px;
+      font-style: italic;
+      color: #cccccc;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>I'm Sorry, Aneeqa</h1>
+    <p>
+      I want to start by saying how deeply sorry I am. I disrespected you, and I will never forgive myself for making you feel hurt, unvalued, or unloved. You deserve better—so much better—and I failed you.
+    </p>
+    <p>
+      You mean the world to me, Aneeqa. Your presence in my life is something I will never take for granted again. I miss your smile, your voice, your kindness. I made a terrible mistake, and I'm not asking for instant forgiveness—I'm just asking for a chance to make things right.
+    </p>
+    <p>
+      Please know this comes from the deepest place in my heart: I am sorry. Truly, completely, and endlessly sorry.
+    </p>
+    <div class="signature">
+      - Iqrar
+    </div>
+  </div>
+</body>
+</html>
